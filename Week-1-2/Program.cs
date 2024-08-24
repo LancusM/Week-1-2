@@ -10,7 +10,8 @@ namespace Week_1_2
     {
         static void Main(string[] args)
         {
-            //Inital prompt
+            //Excercise 2, inputting information to output information
+            //Initial prompt
             Console.WriteLine("INFORMATION INPUT");
             //Asks for first name
             Console.WriteLine("What is your first name?");
